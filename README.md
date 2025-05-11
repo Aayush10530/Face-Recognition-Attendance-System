@@ -30,9 +30,9 @@
 <img src='./readme_images/2.png>
 
 ## While taking Attendance
-<img src='./readme_images/3.png'>
+<img src='./readme_images/4.png'>
 
 ## Attendance in tabular format 
-<img src='./readme_images/4.png'>
+<img src='./readme_images/5.png'>
 
 ## Just follow me and Star⭐ my repository
