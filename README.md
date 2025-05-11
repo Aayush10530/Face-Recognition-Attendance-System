@@ -27,7 +27,7 @@
 <img src='./readme_images/1.png'>
 
 ### While taking Image
-<img src='./readme_images/2.png>
+<img src='./readme_images/2.png'>
 
 ## While taking Attendance
 <img src='./readme_images/4.png'>
